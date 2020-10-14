@@ -1,4 +1,4 @@
-# Install script for directory: C:/Oliver Killane's Files/General/B - Uncompleted Coding Projects/C/Dungeon Escape
+# Install script for directory: C:/Oliver Killane's Files/B - Coding Projects/GitHub - Dungeon Escape C/Dungeon-Escape-C
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Oliver Killane's Files/General/B - Uncompleted Coding Projects/C/Dungeon Escape/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Oliver Killane's Files/B - Coding Projects/GitHub - Dungeon Escape C/Dungeon-Escape-C/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

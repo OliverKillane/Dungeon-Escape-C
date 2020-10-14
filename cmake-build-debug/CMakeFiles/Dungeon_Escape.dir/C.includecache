@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Oliver Killane's Files/General/B - Uncompleted Coding Projects/C/Dungeon Escape/DungeonHeader.h
+C:/Oliver Killane's Files/B - Coding Projects/GitHub - Dungeon Escape C/Dungeon-Escape-C/DungeonHeader.h
 
-C:/Oliver Killane's Files/General/B - Uncompleted Coding Projects/C/Dungeon Escape/main.c
+C:/Oliver Killane's Files/B - Coding Projects/GitHub - Dungeon Escape C/Dungeon-Escape-C/main.c
 stdio.h
 -
 stdlib.h
@@ -20,5 +20,5 @@ string.h
 wctype.h
 -
 DungeonHeader.h
-C:/Oliver Killane's Files/General/B - Uncompleted Coding Projects/C/Dungeon Escape/DungeonHeader.h
+C:/Oliver Killane's Files/B - Coding Projects/GitHub - Dungeon Escape C/Dungeon-Escape-C/DungeonHeader.h
 

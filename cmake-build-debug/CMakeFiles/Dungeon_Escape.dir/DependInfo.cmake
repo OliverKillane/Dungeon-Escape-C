@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Oliver Killane's Files/General/B - Uncompleted Coding Projects/C/Dungeon Escape/main.c" "C:/Oliver Killane's Files/General/B - Uncompleted Coding Projects/C/Dungeon Escape/cmake-build-debug/CMakeFiles/Dungeon_Escape.dir/main.c.obj"
+  "C:/Oliver Killane's Files/B - Coding Projects/GitHub - Dungeon Escape C/Dungeon-Escape-C/main.c" "C:/Oliver Killane's Files/B - Coding Projects/GitHub - Dungeon Escape C/Dungeon-Escape-C/cmake-build-debug/CMakeFiles/Dungeon_Escape.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "MSVC")
 

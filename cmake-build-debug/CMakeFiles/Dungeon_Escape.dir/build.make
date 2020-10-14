@@ -44,10 +44,10 @@ RM = C:\Users\olive\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.7223.86\
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Oliver Killane's Files\General\B - Uncompleted Coding Projects\C\Dungeon Escape"
+CMAKE_SOURCE_DIR = "C:\Oliver Killane's Files\B - Coding Projects\GitHub - Dungeon Escape C\Dungeon-Escape-C"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Oliver Killane's Files\General\B - Uncompleted Coding Projects\C\Dungeon Escape\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Oliver Killane's Files\B - Coding Projects\GitHub - Dungeon Escape C\Dungeon-Escape-C\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles\Dungeon_Escape.dir\depend.make
@@ -60,21 +60,21 @@ include CMakeFiles\Dungeon_Escape.dir\flags.make
 
 CMakeFiles\Dungeon_Escape.dir\main.c.obj: CMakeFiles\Dungeon_Escape.dir\flags.make
 CMakeFiles\Dungeon_Escape.dir\main.c.obj: ..\main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Oliver Killane's Files\General\B - Uncompleted Coding Projects\C\Dungeon Escape\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Dungeon_Escape.dir/main.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Oliver Killane's Files\B - Coding Projects\GitHub - Dungeon Escape C\Dungeon-Escape-C\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Dungeon_Escape.dir/main.c.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\Dungeon_Escape.dir\main.c.obj /FdCMakeFiles\Dungeon_Escape.dir\ /FS -c "C:\Oliver Killane's Files\General\B - Uncompleted Coding Projects\C\Dungeon Escape\main.c"
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\Dungeon_Escape.dir\main.c.obj /FdCMakeFiles\Dungeon_Escape.dir\ /FS -c "C:\Oliver Killane's Files\B - Coding Projects\GitHub - Dungeon Escape C\Dungeon-Escape-C\main.c"
 <<
 
 CMakeFiles\Dungeon_Escape.dir\main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Dungeon_Escape.dir/main.c.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\Dungeon_Escape.dir\main.c.i @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Oliver Killane's Files\General\B - Uncompleted Coding Projects\C\Dungeon Escape\main.c"
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Oliver Killane's Files\B - Coding Projects\GitHub - Dungeon Escape C\Dungeon-Escape-C\main.c"
 <<
 
 CMakeFiles\Dungeon_Escape.dir\main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Dungeon_Escape.dir/main.c.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Dungeon_Escape.dir\main.c.s /c "C:\Oliver Killane's Files\General\B - Uncompleted Coding Projects\C\Dungeon Escape\main.c"
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Dungeon_Escape.dir\main.c.s /c "C:\Oliver Killane's Files\B - Coding Projects\GitHub - Dungeon Escape C\Dungeon-Escape-C\main.c"
 <<
 
 # Object files for target Dungeon_Escape
@@ -87,9 +87,9 @@ Dungeon_Escape_EXTERNAL_OBJECTS =
 Dungeon_Escape.exe: CMakeFiles\Dungeon_Escape.dir\main.c.obj
 Dungeon_Escape.exe: CMakeFiles\Dungeon_Escape.dir\build.make
 Dungeon_Escape.exe: CMakeFiles\Dungeon_Escape.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Oliver Killane's Files\General\B - Uncompleted Coding Projects\C\Dungeon Escape\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable Dungeon_Escape.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Oliver Killane's Files\B - Coding Projects\GitHub - Dungeon Escape C\Dungeon-Escape-C\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable Dungeon_Escape.exe"
 	C:\Users\olive\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.7223.86\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\Dungeon_Escape.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\Dungeon_Escape.dir\objects1.rsp @<<
- /out:Dungeon_Escape.exe /implib:Dungeon_Escape.lib /pdb:"C:\Oliver Killane's Files\General\B - Uncompleted Coding Projects\C\Dungeon Escape\cmake-build-debug\Dungeon_Escape.pdb" /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
+ /out:Dungeon_Escape.exe /implib:Dungeon_Escape.lib /pdb:"C:\Oliver Killane's Files\B - Coding Projects\GitHub - Dungeon Escape C\Dungeon-Escape-C\cmake-build-debug\Dungeon_Escape.pdb" /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
 
 # Rule to build all files generated by this target.
@@ -102,6 +102,6 @@ CMakeFiles\Dungeon_Escape.dir\clean:
 .PHONY : CMakeFiles\Dungeon_Escape.dir\clean
 
 CMakeFiles\Dungeon_Escape.dir\depend:
-	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" "C:\Oliver Killane's Files\General\B - Uncompleted Coding Projects\C\Dungeon Escape" "C:\Oliver Killane's Files\General\B - Uncompleted Coding Projects\C\Dungeon Escape" "C:\Oliver Killane's Files\General\B - Uncompleted Coding Projects\C\Dungeon Escape\cmake-build-debug" "C:\Oliver Killane's Files\General\B - Uncompleted Coding Projects\C\Dungeon Escape\cmake-build-debug" "C:\Oliver Killane's Files\General\B - Uncompleted Coding Projects\C\Dungeon Escape\cmake-build-debug\CMakeFiles\Dungeon_Escape.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" "C:\Oliver Killane's Files\B - Coding Projects\GitHub - Dungeon Escape C\Dungeon-Escape-C" "C:\Oliver Killane's Files\B - Coding Projects\GitHub - Dungeon Escape C\Dungeon-Escape-C" "C:\Oliver Killane's Files\B - Coding Projects\GitHub - Dungeon Escape C\Dungeon-Escape-C\cmake-build-debug" "C:\Oliver Killane's Files\B - Coding Projects\GitHub - Dungeon Escape C\Dungeon-Escape-C\cmake-build-debug" "C:\Oliver Killane's Files\B - Coding Projects\GitHub - Dungeon Escape C\Dungeon-Escape-C\cmake-build-debug\CMakeFiles\Dungeon_Escape.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles\Dungeon_Escape.dir\depend
 

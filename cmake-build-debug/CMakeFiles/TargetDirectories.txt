@@ -1,3 +1,3 @@
-C:/Oliver Killane's Files/General/B - Uncompleted Coding Projects/C/Dungeon Escape/cmake-build-debug/CMakeFiles/Dungeon_Escape.dir
-C:/Oliver Killane's Files/General/B - Uncompleted Coding Projects/C/Dungeon Escape/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Oliver Killane's Files/General/B - Uncompleted Coding Projects/C/Dungeon Escape/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Oliver Killane's Files/B - Coding Projects/GitHub - Dungeon Escape C/Dungeon-Escape-C/cmake-build-debug/CMakeFiles/Dungeon_Escape.dir
+C:/Oliver Killane's Files/B - Coding Projects/GitHub - Dungeon Escape C/Dungeon-Escape-C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Oliver Killane's Files/B - Coding Projects/GitHub - Dungeon Escape C/Dungeon-Escape-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
