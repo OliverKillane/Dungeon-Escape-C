@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Oliver Killane's Files/General/B - Uncompleted Coding Projects/C/Dungeon Escape/DungeonHeader.h
+
+C:/Oliver Killane's Files/General/B - Uncompleted Coding Projects/C/Dungeon Escape/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+wctype.h
+-
+DungeonHeader.h
+C:/Oliver Killane's Files/General/B - Uncompleted Coding Projects/C/Dungeon Escape/DungeonHeader.h
+
